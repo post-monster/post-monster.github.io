@@ -3,17 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://post.monster/</loc>
+    <lastmod>2019-04-18T16:00:10+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://post.monster/about/</loc>
+    <lastmod>2019-04-18T16:00:10+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://post.monster/readme/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://post.monster/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://post.monster/</loc>
     <priority>0</priority>
   </url>
   
